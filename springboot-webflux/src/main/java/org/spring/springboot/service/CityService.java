@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 城市业务逻辑接口类
  *
- * Created by bysocket on 09/29/2017.
+ * Created by by wh on 09/29/2017.
  */
 public interface CityService {
 

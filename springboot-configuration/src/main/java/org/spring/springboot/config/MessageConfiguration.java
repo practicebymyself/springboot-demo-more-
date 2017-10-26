@@ -4,7 +4,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by bysocket on 08/09/2017.
+ * Created by by wh on 08/09/2017.
  */
 @Configuration
 public class MessageConfiguration {

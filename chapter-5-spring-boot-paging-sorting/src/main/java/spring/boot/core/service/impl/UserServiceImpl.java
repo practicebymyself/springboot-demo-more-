@@ -13,7 +13,7 @@ import spring.boot.core.service.UserService;
 /**
  * User 业务层实现
  *
- * Created by bysocket on 18/09/2017.
+ * Created by by wh on 18/09/2017.
  */
 @Service
 public class UserServiceImpl implements UserService {

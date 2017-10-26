@@ -3,7 +3,7 @@ package org.spring.springboot.result;
 /**
  * 应用系统级别的错误码
  *
- * Created by bysocket on 14/03/2017.
+ * Created by by wh on 14/03/2017.
  */
 public enum GlobalErrorInfoEnum implements ErrorInfoInterface{
     SUCCESS("0", "success"),
